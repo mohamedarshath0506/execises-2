@@ -1,0 +1,15 @@
+ol li a {
+    color: #0000ff;
+}
+
+table, th, td {
+    border:1px solid black;
+}
+
+a {
+    color: #0000ff;
+}
+
+p {
+    margin: 0;
+}
